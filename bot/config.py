@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5873889598:AAH42MYEi286uRw6g9tpUboJtHMXcZdks0Y"
+    APP_ID = "6660481"
+    API_HASH = "874c349be97bbcd1ad6a3562589b5d3d"
+    DATABASE_URL = "postgres://pngvbmmn:bgRpDeGWLKSeml71aYkoBM5rKeHDCoCS@tiny.db.elephantsql.com/pngvbmmn"
+    SUDO_USERS = "1791446058" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
