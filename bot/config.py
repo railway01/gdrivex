@@ -4,7 +4,7 @@ class config:
     API_HASH = "874c349be97bbcd1ad6a3562589b5d3d"
     DATABASE_URL = "postgres://pngvbmmn:bgRpDeGWLKSeml71aYkoBM5rKeHDCoCS@tiny.db.elephantsql.com/pngvbmmn"
     SUDO_USERS = "1791446058" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
